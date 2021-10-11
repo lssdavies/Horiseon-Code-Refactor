@@ -17,4 +17,4 @@ This repository contains a code refactoring for Horiseon. The purpose of this re
 Web App link: https://lssdavies.github.io/Horiseon-Code-Refactor/
 
 Screen shot of Web App:
-https://lssdavies.github.io/Horiseon-Code-Refactor/assets/images/Horiseon_deployed_web_app.PNG
+![Web App](assets/images/Horiseon_deployed_web_app.PNG)
